@@ -13,8 +13,8 @@ near its opening.
 * hc-Sr04 ultrasonic ranging module
 * Servo motor
 ### The project can be divided into two basic parts:
- **inputs and processing**
- **outputs**
+ **1. inputs and processing**  
+ **2. outputs**
     
 * INPUTS AND PROCESSING:
 the inputs basically consist of the data received from the hc-Sr04 ultrasonic ranging
